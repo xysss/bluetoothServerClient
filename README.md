@@ -1,0 +1,2 @@
+# bluetoothServerClient
+Android经典蓝牙服务端客户端实例
